@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MRyk00/hex-js/issues"
   },
-  "homepage": "https://github.com/MRyk00/hex-js#readme"
+  "homepage": "https://github.com/MRyk00/hex-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
